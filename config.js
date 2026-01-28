@@ -43,7 +43,7 @@ const CONFIG = {
     celebration: {
         title: "You have officially agreed to be my Valentine this year!",
         message: "I'm so excited to experience our first Valentine's Day together!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖🤗💝❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
